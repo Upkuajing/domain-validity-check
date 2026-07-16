@@ -1,7 +1,7 @@
 ---
 name: domain-validity-check
-description: Check domain validity, security, and sensitivity status. Returns validation status, reason, and sensitivity flag for each domain.
-metadata: {"version":"1.0.0","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🌐","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+description: "Verify corporate domain status to filter invalid domains, boost email deliverability and clean your CRM and email lists for exporters.\n\nTrigger: domain validity check, corporate domain verification, email‑list scrubbing, CRM data cleansing, sales lead validation"
+metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🌐","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # Domain Validity Check
